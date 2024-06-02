@@ -1,0 +1,7 @@
+kitta_number,city_district,land_faced,area,price,availability
+123,Kathmandu,East,10,5000, Available
+456,Bhaktapur,South,15,7000, Available
+789,Lalitpur,West,20,8000,Available
+823,Damak,East,20,7000, Available
+956,Biratnagar,South,15,5000, Available
+489,Birtamod,West,30,10000,Available
